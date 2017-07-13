@@ -1,6 +1,6 @@
 # github-show-time-ago
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Change the time of Github.
 
 ## Installation
 
