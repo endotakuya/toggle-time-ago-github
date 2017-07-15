@@ -27,9 +27,6 @@
       "matches": [
         "https://github.com/*"
       ],
-      "css": [
-        "styles/contentscript.css"
-      ],
       "js": [
         "scripts/contentscript.js"
       ],
