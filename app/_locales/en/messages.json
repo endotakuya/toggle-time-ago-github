@@ -1,14 +1,14 @@
 {
   "appName": {
-    "message": "Toggle TIme of Github",
-    "description": "Switch the time of Github"
+    "message": "Toggle TIme for Github",
+    "description": "Switch the time for Github"
   },
   "appShortName": {
     "message": "toggle-tag",
-    "description": "Switch the time of Github"
+    "description": "Switch the time for Github"
   },
   "appDescription": {
-    "message": "Switch the time of Github",
-    "description": "Switch the time of Github"
+    "message": "Switch the time for Github",
+    "description": "Switch the time for Github"
   }
 }
