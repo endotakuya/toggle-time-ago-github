@@ -11,7 +11,6 @@ window.onload = function(){
 }
 
 chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
-    console.log(default_relative_time_arr)
     if (request == "show") {
         showDetailTime();
     } else if (request == "hidden") {
