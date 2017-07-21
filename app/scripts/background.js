@@ -9,7 +9,7 @@
 
 let flag = true
 chrome.browserAction.onClicked.addListener(function(tab) {
-	let action_case = flag ? "show" : "hidden"
+	let action_case = flag ? "hidden" : "show"
     chrome.tabs.sendMessage(tab.id, action_case)
 	flag = !flag
 });
