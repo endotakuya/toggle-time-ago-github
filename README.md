@@ -1,6 +1,7 @@
 # github-show-time-ago
 
-Change the time of Github.
+Change the time of Github.  
+Install: [Toggle Time for Github](https://chrome.google.com/webstore/detail/toggle-time-for-github/ibmdfeckdcljclpcaiolijdmfhjoblei?hl=ja&authuser=1)
 
 ## Installation
 
