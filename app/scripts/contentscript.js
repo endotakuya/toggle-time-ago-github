@@ -5,7 +5,7 @@ let time_agos
 let default_relative_time_arr = []
 let default_time_ago_arr = []
 
-(window.onload = function(){
+!(window.onload = function(){
     relative_times = document.getElementsByTagName('relative-time')
     time_agos = document.getElementsByTagName('time-ago')
 
